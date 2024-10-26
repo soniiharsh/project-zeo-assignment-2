@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  background-color: #f8f9fa; /* Light background */
+  min-height: 100vh;
+}
+
+.App-header {
+  background-color: #343a40; /* Dark background for header */
+  color: white;
+  padding: 2rem;
+}
+
+.weather-info {
+  background-color: #0c7eef; /* Light color for weather info */
+  color: #212529; /* Dark text color */
+  border-radius: 5px;
+}
+
+.forecast-item {
+  background-color: #0080ff; /* Light color for forecast items */
+}
+
+.input-group {
+  max-width: 600px;
+  margin: auto;
+}
+.threshold-input {
+  width: 100px; /* Set to your desired width */
+  display: inline-block; /* Aligns it nicely with the label */
+}
+
